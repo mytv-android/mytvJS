@@ -41,8 +41,6 @@ javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xwzh
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=xjs
 #EXTINF:-1 group-title="上海" tvg-name="魔都眼" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/魔都眼.png",魔都眼
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=mdy
-#EXTINF:-1 group-title="上海" tvg-name="爱上海" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/爱上海.png",爱上海
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=ash
 #EXTINF:-1 group-title="上海" tvg-name="第一财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/第一财经.png",第一财经
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dycj
 #EXTINF:-1 group-title="上海" tvg-name="上海都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/上海都市.png",上海都市

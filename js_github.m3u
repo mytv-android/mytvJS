@@ -41,8 +41,6 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sh.js?id=xjs
 #EXTINF:-1 group-title="上海" tvg-name="魔都眼" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/魔都眼.png",魔都眼
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sh.js?id=mdy
-#EXTINF:-1 group-title="上海" tvg-name="爱上海" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/爱上海.png",爱上海
-javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sh.js?id=ash
 #EXTINF:-1 group-title="上海" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/第一财经.png",第一财经
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/sh.js?id=dycj
 #EXTINF:-1 group-title="上海" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/mytv-android/myTVlogo/refs/heads/main/img/上海都市.png",上海都市
